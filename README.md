@@ -14,4 +14,8 @@ Initially Data was extracted from a __URL__ using __request__ module of __python
 __Beautiful soup__ was used to parse HTML document.\
 After extracting data from url all table heads were separated.\
 Later __Panda__ library was used to manipulated table head and make them individual columns.\
-Row data was then filled in columns.
+Row data was then filled in columns.\
+Data is saved in CSV format.
+
+
+### We get Top 50 Companies of India
